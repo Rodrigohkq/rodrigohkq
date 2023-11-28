@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 Faço faculdade de Análise e desenvolvimento de sistemas.<br>👯 Estou a procura de um estágio.<br>
+🔭 Faço Faculdade de análise e desenvolvimento de sistemas.<br>👯 Estou a procura de um estágio.<br>
 
 
 ## 🌐 Socials:
